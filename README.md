@@ -20,6 +20,7 @@ The project is created **for learning purposes only** to understand how Supabase
 ## 🛠️ Tech Stack  
 - **Backend**: Node.js + Express  
 - **Database**: Supabase (PostgreSQL)  
-- **API Testing**: Postman  
+- **API Testing**: Postman
+- **Frontend** : React
 
 ---
